@@ -5,10 +5,10 @@ This is an application that provides a complete all one on solution to the banki
 The process involves many technical verifications including signature verification. Some of these steps are manual and require human intervention to complete the process. 
 The current process requires the high human capital deployment and longer processing time.
 
-Our Solution:
+# Our Solution:
 We have developed a complete python based application to solve this issue. The application upon appropriate login allows users to enter their cheques. The cheque is then scanned for all the necessary details and will be validated. The signature of the payee is also validated to assur there is not fraud invloved.
 
-Basic workflow:
+# Basic workflow:
 
 Cheque Input: 
 Users enter the cheque details into the application. This can be done by uploading an image of the cheque.
@@ -34,7 +34,7 @@ Fields:
 ![WhatsApp Image 2024-03-15 at 14 37 24_b15e2510](https://github.com/RanjithKannan03/Auto-Cheque-Clearance/assets/34032949/5600b7a5-5bfd-4f6d-a626-e4917af0d81b)
 
 
-Tech stack:
+# Tech stack:
 Firebase Setup: Set up a Firebase project and configure the necessary services (Firestore or Realtime Database).
 Database Structure: Define the structure of your database to store bank details.
 Integration: Integrate Firebase SDK into your application to interact with the database.
