@@ -33,6 +33,7 @@ Dataset:
 Fields:
 ![WhatsApp Image 2024-03-15 at 14 37 24_b15e2510](https://github.com/RanjithKannan03/Auto-Cheque-Clearance/assets/34032949/5600b7a5-5bfd-4f6d-a626-e4917af0d81b)
 
+
 Tech stack:
 Firebase Setup: Set up a Firebase project and configure the necessary services (Firestore or Realtime Database).
 Database Structure: Define the structure of your database to store bank details.
